@@ -10,7 +10,7 @@ permissions:
   discussions: write
 
 env:
-  PROJECT_NAME: JSEngine
+  PROJECT_NAME: PsychEngine
 
 jobs:
   get-commit-hash:
