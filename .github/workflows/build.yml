@@ -24,7 +24,7 @@ on:
 
 env:
   HAXE_VERSION: 4.3.4
-  PROJECT_NAME: PsychEngine
+  PROJECT_NAME: JSEngine
 
 jobs:
   build:
